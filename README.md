@@ -43,6 +43,7 @@ bug = pygame.transform.scale(bug,(150,150))
 ## How To Play ?
 
 1) Double click on the game_project.py and screen with a player should apear :
+   <br/>
    The Player
    <br/>
    <img src="https://github.com/mphalane/simple-game-python/blob/master/player_1.png" alt="enemy 1" width="200" height="200" />
