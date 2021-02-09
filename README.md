@@ -49,9 +49,9 @@ bug = pygame.transform.scale(bug,(150,150))
   - Right key to move forward.
   - Left key to move backward.'
 3) The aim is to not collide with the following enemies:
-   - ![enemey 1](https://github.com/mphalane/simple-game-python/blob/master/enemy_1.png)
-   - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/ghost.png)
-   - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/ghost.png)
+   - ![enemey 1](https://github.com/mphalane/simple-game-python/blob/master/enemy_1.png =50x50)
+   - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/ghost.png =50x50)
+   - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/enemy.png =50x50)
    
 4) If you collide with any enemy objects the user loses :(, and the game ends.
 
