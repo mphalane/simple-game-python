@@ -50,6 +50,7 @@ bug = pygame.transform.scale(bug,(150,150))
   - Left key to move backward.'
 3) The aim is to not collide with the following enemies:
    - <img src"https://github.com/mphalane/simple-game-python/blob/master/enemy_1.png" alt="enemy 1" width="200" height="200"/>
+   - <img src="https://github.com/mphalane/simple-game-python/blob/master/enemy_1.png" width="200" height="200" />
    - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/ghost.png =50x50)
    - ![enemey 2](https://github.com/mphalane/simple-game-python/blob/master/enemy.png =50x50)
    
